@@ -997,7 +997,7 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f050016;
         public static final int action_menu_presenter=0x7f050017;
         public static final int action_mode_close_button=0x7f050024;
-        public static final int action_settings=0x7f05003c;
+        public static final int action_settings=0x7f05003e;
         public static final int activity_chooser_view_content=0x7f050025;
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
@@ -1022,6 +1022,7 @@ containing a value of this type.
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
         public static final int normal=0x7f050000;
+        public static final int play_button=0x7f05003c;
         public static final int progress_circular=0x7f050018;
         public static final int progress_horizontal=0x7f050019;
         public static final int radio=0x7f05002f;
@@ -1040,6 +1041,7 @@ containing a value of this type.
         public static final int showHome=0x7f050004;
         public static final int showTitle=0x7f050006;
         public static final int split_action_bar=0x7f05001e;
+        public static final int store_button=0x7f05003d;
         public static final int submit_area=0x7f050039;
         public static final int tabMode=0x7f050002;
         public static final int title=0x7f05002b;
@@ -1098,7 +1100,8 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f030015;
         public static final int abc_search_view=0x7f030016;
         public static final int activity_play_main=0x7f030017;
-        public static final int support_simple_spinner_dropdown_item=0x7f030018;
+        public static final int game_activity=0x7f030018;
+        public static final int support_simple_spinner_dropdown_item=0x7f030019;
     }
     public static final class menu {
         public static final int play_main=0x7f0c0000;
@@ -1146,7 +1149,10 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
         public static final int action_settings=0x7f0a000f;
         public static final int app_name=0x7f0a000d;
+        public static final int confirm_game=0x7f0a0011;
         public static final int hello_world=0x7f0a000e;
+        public static final int play_button=0x7f0a0013;
+        public static final int store_button=0x7f0a0012;
         public static final int title_screen=0x7f0a0010;
     }
     public static final class style {
