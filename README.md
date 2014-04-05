@@ -2,4 +2,4 @@ Bitcamp
 =======
 TO DO:
 -------
-   -get eclipse to work...
+   -get ball to work
